@@ -2,6 +2,6 @@
 Aplicativo desenvolvido para o trabalho de programação mobile.
 
 Integrantes do grupo:
-João Paulo Vaz
-Pedro Durães
-Túlio Bernardo Ferreira
+João Paulo Vaz;
+Pedro Durães;
+Túlio Bernardo Ferreira.
