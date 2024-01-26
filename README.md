@@ -1,4 +1,4 @@
-# Lembrete-gua
+# Lembrete_Agua
 Aplicativo desenvolvido para o trabalho de programação mobile.
 
 Integrantes do grupo:
